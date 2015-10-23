@@ -5,7 +5,7 @@
 +0.000 listen(3, 1) = 0
 // Establish the TCP connection.
 +0.050 < S  0:0(0) win 65535
-+0.000 > S. 0:0(0) ack 1 win 65535 <...>
++0.000 > S. 0:0(0) ack 1 <...>
 +0.050 <  . 1:1(0) ack 1 win 65535
 +0.000 accept(3, ..., ...) = 4
 +0.000 close(3) = 0
